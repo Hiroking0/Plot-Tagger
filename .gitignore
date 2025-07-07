@@ -1,0 +1,15 @@
+**__pycache__/
+**/.DS_Store
+**/._.DS_Store
+*.pkl
+*.json
+*.png
+*.csv
+*.npy
+*.bin
+*.cvs
+*.db
+*.bak
+*.pyc
+*.xlsx
+tempCodeRunnerFile.py
