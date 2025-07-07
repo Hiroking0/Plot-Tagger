@@ -38,7 +38,7 @@ ws = wb.active
 # Define the fill color for "New" status
 grey_fill = PatternFill(start_color="D3D3D3", end_color="D3D3D3", fill_type="solid")
 green_fill = PatternFill(start_color="90EE90", end_color="90EE90", fill_type="solid")
-# Iterate over the rows and highlight rows where 'Status' is 'New'
+
 # Iterate over the rows and highlight rows based on the 'Status' column
 for row in range(2, len(df) + 2):  # Start from 2 to skip the header row
     status_cell = ws.cell(row=row, column=df.columns.get_loc('Status') + 1)
