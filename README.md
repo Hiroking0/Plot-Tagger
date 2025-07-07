@@ -111,7 +111,6 @@ python -m pip install h5py pandas numpy openpyxl tabulate matplotlib scipy
 
 > **Tip:** if you work in Jupyter or VS Code, install *tk* (`pip install tk`) to enable the file‑picker in `generate_and_store_unique_id_in_hdf()`.
 
-Alternatively, copy the exact versions in your lab environment into `requirements.txt` and `pip install -r requirements.txt`.
 
 ## Contributing <a name="contributing"></a>
 
