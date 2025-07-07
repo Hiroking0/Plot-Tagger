@@ -123,4 +123,4 @@ Pull requests are welcome!  Please:
 
 ## Licence <a name="licence"></a>
 
-MIT Licence © 2025 Hiroki Fujisato
+Apache-2.0 © 2025 Hiroki Fujisato

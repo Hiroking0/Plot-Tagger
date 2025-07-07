@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+# SPDX-License-Identifier: Apache-2.0
+# Copyright © 2025 Hiroki Fujisato
+
+"""
+Created on Mon Jan 15 12:20:24 2025
+
+@author: Hiroki Fujisato
+"""
+
 import json
 
 import h5py as h5
