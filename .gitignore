@@ -12,4 +12,5 @@
 *.bak
 *.pyc
 *.xlsx
+*.h5
 tempCodeRunnerFile.py
